@@ -1,0 +1,1 @@
+Crie um método em C# para uma classe Agenda que remova um contato de uma lista. O método deve ser chamado RemoverContato(string nome)
