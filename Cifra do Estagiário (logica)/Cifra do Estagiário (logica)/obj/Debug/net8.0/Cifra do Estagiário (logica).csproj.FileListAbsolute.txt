@@ -1,0 +1,14 @@
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\bin\Debug\net8.0\Cifra do Estagiário (logica).exe
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\bin\Debug\net8.0\Cifra do Estagiário (logica).deps.json
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\bin\Debug\net8.0\Cifra do Estagiário (logica).runtimeconfig.json
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\bin\Debug\net8.0\Cifra do Estagiário (logica).dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\bin\Debug\net8.0\Cifra do Estagiário (logica).pdb
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).AssemblyInfoInputs.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).AssemblyInfo.cs
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).csproj.CoreCompileInputs.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\refint\Cifra do Estagiário (logica).dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).pdb
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\Cifra do Estagiário (logica).genruntimeconfig.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Cifra do Estagiário (logica)\obj\Debug\net8.0\ref\Cifra do Estagiário (logica).dll

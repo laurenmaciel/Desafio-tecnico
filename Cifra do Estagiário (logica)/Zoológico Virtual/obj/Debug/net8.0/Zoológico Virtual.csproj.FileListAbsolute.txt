@@ -1,0 +1,14 @@
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\bin\Debug\net8.0\Zoológico Virtual.exe
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\bin\Debug\net8.0\Zoológico Virtual.deps.json
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\bin\Debug\net8.0\Zoológico Virtual.runtimeconfig.json
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\bin\Debug\net8.0\Zoológico Virtual.dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\bin\Debug\net8.0\Zoológico Virtual.pdb
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.AssemblyInfoInputs.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.AssemblyInfo.cs
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\refint\Zoológico Virtual.dll
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.pdb
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\Zoológico Virtual.genruntimeconfig.cache
+C:\Users\pichau\Desktop\DesafioLogica-GFT\Cifra do Estagiário (logica)\Zoológico Virtual\obj\Debug\net8.0\ref\Zoológico Virtual.dll
